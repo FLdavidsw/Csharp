@@ -1,0 +1,274 @@
+[
+  {
+      "title": "The Shawshank Redemption",
+      "releaseDate": "1994-10-14",
+      "categories": ["Drama"],
+      "mainActors": ["Tim Robbins", "Morgan Freeman"],
+      "director": "Frank Darabont",
+      "company": "Columbia Pictures"
+  },
+  {
+      "title": "Pulp Fiction",
+      "releaseDate": "1994-10-14",
+      "categories": ["Crime", "Drama"],
+      "mainActors": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+      "director": "Quentin Tarantino",
+      "company": "Miramax Films"
+  },
+  {
+      "title": "Forrest Gump",
+      "releaseDate": "1994-07-06",
+      "categories": ["Drama", "Romance"],
+      "mainActors": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+      "director": "Robert Zemeckis",
+      "company": "Paramount Pictures"
+  },
+  {
+      "title": "The Matrix",
+      "releaseDate": "1999-03-31",
+      "categories": ["Action", "Sci-Fi"],
+      "mainActors": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+      "director": "The Wachowskis",
+      "company": "Warner Bros. Pictures"
+  },
+  {
+      "title": "Fight Club",
+      "releaseDate": "1999-10-15",
+      "categories": ["Drama"],
+      "mainActors": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"],
+      "director": "David Fincher",
+      "company": "20th Century Fox"
+  },
+  {
+      "title": "The Lord of the Rings: The Return of the King",
+      "releaseDate": "2003-12-17",
+      "categories": ["Adventure", "Drama", "Fantasy"],
+      "mainActors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"],
+      "director": "Peter Jackson",
+      "company": "New Line Cinema"
+  },
+  {
+      "title": "Inglourious Basterds",
+      "releaseDate": "2009-08-21",
+      "categories": ["Adventure", "Drama", "War"],
+      "mainActors": ["Brad Pitt", "Mélanie Laurent", "Christoph Waltz"],
+      "director": "Quentin Tarantino",
+      "company": "Universal Pictures"
+  },
+  {
+      "title": "The Departed",
+      "releaseDate": "2006-10-06",
+      "categories": ["Crime", "Drama", "Thriller"],
+      "mainActors": ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson"],
+      "director": "Martin Scorsese",
+      "company": "Warner Bros. Pictures"
+  },
+  {
+      "title": "Gladiator",
+      "releaseDate": "2000-05-05",
+      "categories": ["Action", "Drama"],
+      "mainActors": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"],
+      "director": "Ridley Scott",
+      "company": "DreamWorks Pictures"
+  },
+  {
+      "title": "The Prestige",
+      "releaseDate": "2006-10-20",
+      "categories": ["Drama", "Mystery", "Sci-Fi"],
+      "mainActors": ["Christian Bale", "Hugh Jackman", "Scarlett Johansson"],
+      "director": "Christopher Nolan",
+      "company": "Warner Bros. Pictures"
+  },
+  {
+      "title": "The Green Mile",
+      "releaseDate": "1999-12-10",
+      "categories": ["Crime", "Drama", "Fantasy"],
+      "mainActors": ["Tom Hanks", "Michael Clarke Duncan", "David Morse"],
+      "director": "Frank Darabont",
+      "company": "Warner Bros. Pictures"
+  },
+  {
+      "title": "The Social Network",
+      "releaseDate": "2010-10-01",
+      "categories": ["Biography", "Drama"],
+      "mainActors": ["Jesse Eisenberg", "Andrew Garfield", "Justin Timberlake"],
+      "director": "David Fincher",
+      "company": "Columbia Pictures"
+  },
+  {
+      "title": "Se7en",
+      "releaseDate": "1995-09-22",
+      "categories": ["Crime", "Drama", "Mystery"],
+      "mainActors": ["Morgan Freeman", "Brad Pitt", "Kevin Spacey"],
+      "director": "David Fincher",
+      "company": "New Line Cinema"
+  },
+  {
+      "title": "The Silence of the Lambs",
+      "releaseDate": "1991-02-14",
+      "categories": ["Crime", "Drama", "Thriller"],
+      "mainActors": ["Jodie Foster", "Anthony Hopkins", "Scott Glenn"],
+      "director": "Jonathan Demme",
+      "company": "Orion Pictures"
+  },
+  {
+      "title": "Saving Private Ryan",
+      "releaseDate": "1998-07-24",
+      "categories": ["Drama", "War"],
+      "mainActors": ["Tom Hanks", "Matt Damon", "Tom Sizemore"],
+      "director": "Steven Spielberg",
+      "company": "DreamWorks Pictures"
+  },
+  {
+      "title": "The Usual Suspects",
+      "releaseDate": "1995-08-16",
+      "categories": ["Crime", "Drama", "Mystery"],
+      "mainActors": ["Kevin Spacey", "Gabriel Byrne", "Chazz Palminteri"],
+      "director": "Bryan Singer",
+      "company": "Gramercy Pictures"
+  },
+  {
+      "title": "The Godfather: Part II",
+      "releaseDate": "1974-12-20",
+      "categories": ["Crime", "Drama"],
+      "mainActors": ["Al Pacino", "Robert De Niro", "Robert Duvall"],
+      "director": "Francis Ford Coppola",
+      "company": "Paramount Pictures"
+  },
+  {
+      "title": "The Truman Show",
+      "releaseDate": "1998-06-05",
+      "categories": ["Comedy", "Drama", "Sci-Fi"],
+      "mainActors": ["Jim Carrey", "Ed Harris", "Laura Linney"],
+      "director": "Peter Weir",
+      "company": "Paramount Pictures"
+  },
+  {
+      "title": "City of God",
+      "releaseDate": "2003-01-17",
+      "categories": ["Crime", "Drama"],
+      "mainActors": ["Alexandre Rodrigues", "Leandro Firmino", "Phellipe Haagensen"],
+      "director": "Fernando Meirelles, Kátia Lund",
+      "company": "Miramax Films"
+  },
+  {
+      "title": "The Dark Knight",
+      "releaseDate": "2008-07-18",
+      "categories": ["Action", "Crime", "Drama"],
+      "mainActors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+      "director": "Christopher Nolan",
+      "company": "Warner Bros. Pictures"
+  },
+  {
+      "title": "The Intouchables",
+      "releaseDate": "2011-11-02",
+      "categories": ["Biography", "Comedy", "Drama"],
+      "mainActors": ["François Cluzet", "Omar Sy", "Anne Le Ny"],
+      "director": "Olivier Nakache, Éric Toledano",
+      "company": "Quad Films"
+  },
+  {
+      "title": "Schindler's List",
+      "releaseDate": "1994-02-04",
+      "categories": ["Biography", "Drama", "History"],
+      "mainActors": ["Liam Neeson", "Ben Kingsley", "Ralph Fiennes"],
+      "director": "Steven Spielberg",
+      "company": "Universal Pictures"
+  },
+  {
+      "title": "American History X",
+      "releaseDate": "1998-10-30",
+      "categories": ["Crime", "Drama"],
+      "mainActors": ["Edward Norton", "Edward Furlong", "Beverly D'Angelo"],
+      "director": "Tony Kaye",
+      "company": "New Line Cinema"
+  },
+  {
+      "title": "Goodfellas",
+      "releaseDate": "1990-09-19",
+      "categories": ["Biography", "Crime", "Drama"],
+      "mainActors": ["Robert De Niro", "Ray Liotta", "Joe Pesci"],
+      "director": "Martin Scorsese",
+      "company": "Warner Bros. Pictures"
+  },
+  {
+      "title": "The Lion King",
+      "releaseDate": "1994-06-15",
+      "categories": ["Animation", "Adventure", "Drama"],
+      "mainActors": ["Matthew Broderick", "Jeremy Irons", "James Earl Jones"],
+      "director": "Roger Allers, Rob Minkoff",
+      "company": "Walt Disney Pictures"
+  },
+  {
+      "title": "Inception",
+      "releaseDate": "2010-07-16",
+      "categories": ["Sci-Fi", "Action", "Thriller"],
+      "mainActors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+      "director": "Christopher Nolan",
+      "company": "Warner Bros. Pictures"
+  },
+  {
+      "title": "Interstellar",
+      "releaseDate": "2014-11-07",
+      "categories": ["Sci-Fi", "Adventure", "Drama"],
+      "mainActors": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+      "director": "Christopher Nolan",
+      "company": "Paramount Pictures"
+  },
+  {
+      "title": "La La Land",
+      "releaseDate": "2016-12-09",
+      "categories": ["Musical", "Drama", "Romance"],
+      "mainActors": ["Ryan Gosling", "Emma Stone", "John Legend"],
+      "director": "Damien Chazelle",
+      "company": "Summit Entertainment"
+  },
+  {
+      "title": "Black Panther",
+      "releaseDate": "2018-02-16",
+      "categories": ["Action", "Adventure", "Sci-Fi"],
+      "mainActors": ["Chadwick Boseman", "Michael B. Jordan", "Lupita Nyong'o"],
+      "director": "Ryan Coogler",
+      "company": "Marvel Studios"
+  },
+  {
+      "title": "Parasite",
+      "releaseDate": "2019-11-08",
+      "categories": ["Thriller", "Drama", "Comedy"],
+      "mainActors": ["Song Kang-ho", "Lee Sun-kyun", "Cho Yeo-jeong"],
+      "director": "Bong Joon-ho",
+      "company": "Barunson E&A"
+  },
+  {
+      "title": "Joker",
+      "releaseDate": "2019-10-04",
+      "categories": ["Thriller", "Drama", "Crime"],
+      "mainActors": ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz"],
+      "director": "Todd Phillips",
+      "company": "Warner Bros. Pictures"
+  },
+  {
+      "title": "1917",
+      "releaseDate": "2019-12-25",
+      "categories": ["War", "Drama"],
+      "mainActors": ["George MacKay", "Dean-Charles Chapman", "Mark Strong"],
+      "director": "Sam Mendes",
+      "company": "Universal Pictures"
+  },
+  {
+      "title": "Tenet",
+      "releaseDate": "2020-09-03",
+      "categories": ["Action", "Sci-Fi", "Thriller"],
+      "mainActors": ["John David Washington", "Robert Pattinson", "Elizabeth Debicki"],
+      "director": "Christopher Nolan",
+      "company": "Warner Bros. Pictures"
+  },
+  {
+      "title": "Soul",
+      "releaseDate": "2020-12-25",
+      "categories": ["Animation", "Adventure", "Comedy"],
+      "mainActors": ["Jamie Foxx", "Tina Fey", "Graham Norton"],
+      "director": "Pete Docter",
+      "company": "Walt Disney Pictures"
+  }
+]

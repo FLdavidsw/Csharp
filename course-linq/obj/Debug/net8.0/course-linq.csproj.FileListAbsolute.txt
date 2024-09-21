@@ -1,0 +1,14 @@
+C:\Users\david\desktop\webdevelopment\CSharp\course-linq\bin\Debug\net8.0\course-linq.exe
+C:\Users\david\desktop\webdevelopment\CSharp\course-linq\bin\Debug\net8.0\course-linq.deps.json
+C:\Users\david\desktop\webdevelopment\CSharp\course-linq\bin\Debug\net8.0\course-linq.runtimeconfig.json
+C:\Users\david\desktop\webdevelopment\CSharp\course-linq\bin\Debug\net8.0\course-linq.dll
+C:\Users\david\desktop\webdevelopment\CSharp\course-linq\bin\Debug\net8.0\course-linq.pdb
+C:\Users\david\desktop\webdevelopment\CSharp\course-linq\obj\Debug\net8.0\course-linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\desktop\webdevelopment\CSharp\course-linq\obj\Debug\net8.0\course-linq.AssemblyInfoInputs.cache
+C:\Users\david\desktop\webdevelopment\CSharp\course-linq\obj\Debug\net8.0\course-linq.AssemblyInfo.cs
+C:\Users\david\desktop\webdevelopment\CSharp\course-linq\obj\Debug\net8.0\course-linq.csproj.CoreCompileInputs.cache
+C:\Users\david\desktop\webdevelopment\CSharp\course-linq\obj\Debug\net8.0\course-linq.dll
+C:\Users\david\desktop\webdevelopment\CSharp\course-linq\obj\Debug\net8.0\refint\course-linq.dll
+C:\Users\david\desktop\webdevelopment\CSharp\course-linq\obj\Debug\net8.0\course-linq.pdb
+C:\Users\david\desktop\webdevelopment\CSharp\course-linq\obj\Debug\net8.0\course-linq.genruntimeconfig.cache
+C:\Users\david\desktop\webdevelopment\CSharp\course-linq\obj\Debug\net8.0\ref\course-linq.dll

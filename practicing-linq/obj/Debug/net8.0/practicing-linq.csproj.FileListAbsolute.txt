@@ -1,0 +1,14 @@
+C:\Users\david\Desktop\WebDevelopment\CSharp\practicing-linq\bin\Debug\net8.0\practicing-linq.exe
+C:\Users\david\Desktop\WebDevelopment\CSharp\practicing-linq\bin\Debug\net8.0\practicing-linq.deps.json
+C:\Users\david\Desktop\WebDevelopment\CSharp\practicing-linq\bin\Debug\net8.0\practicing-linq.runtimeconfig.json
+C:\Users\david\Desktop\WebDevelopment\CSharp\practicing-linq\bin\Debug\net8.0\practicing-linq.dll
+C:\Users\david\Desktop\WebDevelopment\CSharp\practicing-linq\bin\Debug\net8.0\practicing-linq.pdb
+C:\Users\david\Desktop\WebDevelopment\CSharp\practicing-linq\obj\Debug\net8.0\practicing-linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\WebDevelopment\CSharp\practicing-linq\obj\Debug\net8.0\practicing-linq.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\WebDevelopment\CSharp\practicing-linq\obj\Debug\net8.0\practicing-linq.AssemblyInfo.cs
+C:\Users\david\Desktop\WebDevelopment\CSharp\practicing-linq\obj\Debug\net8.0\practicing-linq.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\WebDevelopment\CSharp\practicing-linq\obj\Debug\net8.0\practicing-linq.dll
+C:\Users\david\Desktop\WebDevelopment\CSharp\practicing-linq\obj\Debug\net8.0\refint\practicing-linq.dll
+C:\Users\david\Desktop\WebDevelopment\CSharp\practicing-linq\obj\Debug\net8.0\practicing-linq.pdb
+C:\Users\david\Desktop\WebDevelopment\CSharp\practicing-linq\obj\Debug\net8.0\practicing-linq.genruntimeconfig.cache
+C:\Users\david\Desktop\WebDevelopment\CSharp\practicing-linq\obj\Debug\net8.0\ref\practicing-linq.dll
